@@ -5,22 +5,22 @@ import { IoIosMail } from 'react-icons/io';
 export const socialLinks = [
   {
     id: 1,
-    href: 'https://facebook.com/marventures11',
+    href: '#',
     icon: FaFacebookF,
   },
   {
     id: 2,
-    href: 'https://linkedin.com/in/marventures',
+    href: 'https://www.linkedin.com/in/josiah-matela-a37052150/',
     icon: FaLinkedinIn,
   },
   {
     id: 3,
-    href: 'https://github.com/marventures',
+    href: 'https://github.com/jmatela26',
     icon: FaGithubAlt,
   },
   {
     id: 4,
-    href: 'mailto:marvedcodes@gmail.com',
+    href: '#',
     icon: IoIosMail,
   },
 ];
